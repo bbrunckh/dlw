@@ -1,4 +1,5 @@
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/worldbank/dlw)
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # dlw
